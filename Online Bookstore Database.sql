@@ -96,6 +96,7 @@ INSERT INTO orders VALUES
 select title, price from books
 order by price asc;
 
+
 -- Find all distinct countries where customers are from
 select distinct country as countries from customers;
 
