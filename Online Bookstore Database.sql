@@ -11,6 +11,7 @@ create table customers (
 );
 
 
+
 -- Create a books table
 create table books (
   book_id int primary key,
