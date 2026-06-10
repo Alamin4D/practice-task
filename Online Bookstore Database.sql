@@ -53,7 +53,6 @@ INSERT INTO customers VALUES
 (10,'Lucas','Rodriguez','lucas.r@email.com','Buenos Aires','Argentina','2023-03-30');
 
 
-
 -- Insert data from books table
 INSERT INTO books VALUES
 (1,'The Great Gatsby','F. Scott Fitzgerald','Fiction',12.99,1925,45),
